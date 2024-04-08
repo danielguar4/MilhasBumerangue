@@ -1,4 +1,4 @@
-﻿double percentualDeBonus, pecentualDeRetorno;
+﻿double percentualDeBonus, percentualDeRetorno;
 double pontosATransferir, pontosAReduzir, pontosAAcrescentar;
 
 Console.Clear();
@@ -8,7 +8,7 @@ Console.Write("Percentual de bônus....: ");
 percentualDeBonus = Convert.ToDouble(Console.ReadLine());
 
 Console.Write("Percentual de retorno...: ");
-pecentualDeRetorno = Convert.ToDouble(Console.ReadLine());
+percentualDeRetorno = Convert.ToDouble(Console.ReadLine());
 
 Console.Write("Pontos a transferir....: ");
 pontosATransferir = Convert.ToDouble(Console.ReadLine());
